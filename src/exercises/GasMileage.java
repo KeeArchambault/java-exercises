@@ -3,7 +3,7 @@ package exercises;
 import java.util.Scanner;
 
 public class GasMileage {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         float miles;
         float gas;
         float mileage;
